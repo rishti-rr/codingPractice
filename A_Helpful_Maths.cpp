@@ -1,31 +1,4 @@
 
- 
-// #include <bits/stdc++.h>
- 
-// using namespace std;
- 
-// int main()
-// {
-//     ios_base::sync_with_stdio(false);
-//     cin.tie(NULL);
- 
-//     string s;
-//     cin>>s;
-//     sort(s.begin(),s.end());
-//     for(long long unsigned int i =0; i<s.size();i++) 
-//     {
-//     	if(s[i]=='+') continue;
-//     	if(i!=s.size()-1)
-//     	{
-//     		cout<<s[i]<<'+';
-//     	}
-//     	else cout <<s[i];
-//     }
- 
-//     return 0;
-// }
-
-
 // #include<iostream>
 // #include<string.h>
 // using namespace std;
