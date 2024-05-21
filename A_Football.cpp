@@ -11,7 +11,7 @@ int main(){
         else{
             count=0;
         }
-        if((count+1)>=7){
+        if((count+1 )>=7){
             cout<<"YES"<<endl;
             return 0;
         }
